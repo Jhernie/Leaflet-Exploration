@@ -4,13 +4,13 @@ Showcasing the way the Javascript leaflet library can enhance viewing of earthqu
 Please use the following pathway to find the script used
   "Delivered Materials" > "Starter_Code"
   
-#Summary
+# Summary
 
 This visualization uses the USGS [GeoJSON API](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) to pull all earthquake data collected in a given day. I chose to center our map on Hawai'i where I live. Anecdotally, we've had a lot of seismic activity and I believe this is correlated with the recent eruption of Mauna Loa (which erupted last in 1984). 
 
 ![hawaii_hawaiiislandmaunaloaeruptionhvnp_12072022-3600841415](https://user-images.githubusercontent.com/37047605/207194606-8bdee313-7c61-4d34-8255-322a375515c6.jpg)
 
-##Output
+## Output
 
 This map details information by size, color, and pop-up. Larger circles reflect larger magnitude earthquakes while smaller reflect smaller magnitudes. Darker colors represent the deeper quakes while lighter colors represent quakes that happened closer to the surface. 
 
