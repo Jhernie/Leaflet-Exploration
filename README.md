@@ -1,8 +1,5 @@
 # Leaflet-Exploration
 Showcasing the way the Javascript leaflet library can enhance viewing of earthquake data with interactive plots.
-
-Please use the following pathway to find the script used
-  "Delivered Materials" > "Starter_Code"
   
 # Summary
 
